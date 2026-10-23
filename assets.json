@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D golden wooden directional signpost arrow, centered, dark navy radial gradient background, crisp studio lighting, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_splash",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, near-black navy barnyard at dusk, warm gold rim light on distant fence posts, heavy vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, sunset farmyard with wooden fences and hay bales, warm gold and terracotta sky, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, softly blurred dark barn interior with wooden planks, low contrast for UI overlay, warm dim lantern light, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result background, warm barnyard evening with soft bokeh lanterns, low contrast centre, gentle gold glow, no text, no UI elements"
+    },
+    {
+      "name": "sprite_signpost",
+      "type": "sprite",
+      "prompt": "One single cartoon wooden directional signpost arrow, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_grain_sack",
+      "type": "sprite",
+      "prompt": "One single cute cartoon burlap grain sack tied with rope, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_feeder",
+      "type": "sprite",
+      "prompt": "One single cute cartoon wooden chicken feeder trough, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_hen",
+      "type": "sprite",
+      "prompt": "One single cute cartoon hen standing, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_star",
+      "type": "sprite",
+      "prompt": "One single glossy 3D golden star, centered icon, isolated on plain white, no other objects"
+    }
+  ]
+}

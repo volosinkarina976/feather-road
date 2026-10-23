@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feather Road</string>
+
+    <string name="splash_title">FEATHER ROAD</string>
+    <string name="splash_tagline">GRAIN TO THE RIGHT FEEDER</string>
+    <string name="loading">LOADING</string>
+
+    <string name="menu_tagline">TURN THE SIGNS. FEED THE FLOCK.</string>
+    <string name="menu_hint">ONE SIGN TURNS PER TOUCH - NO LANE MAY CROSS ANOTHER</string>
+    <string name="cta_play">PLAY</string>
+    <string name="cta_level_map">LEVEL MAP</string>
+    <string name="cta_game_rules">GAME RULES</string>
+
+    <string name="stat_scheme">SCHEME</string>
+    <string name="stat_grid">GRID</string>
+    <string name="stat_stars">STARS</string>
+    <string name="stat_routes">ROUTES</string>
+    <string name="stat_moves">MOVES</string>
+    <string name="stat_checks">CHECKS</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_turns_left">TURNS LEFT</string>
+
+    <string name="value_pair">%1$d / %2$d</string>
+    <string name="value_grid">%1$dx%2$d</string>
+    <string name="moves_pill">MOVES %1$d</string>
+    <string name="score_line">%1$d GRAIN</string>
+
+    <string name="hint_start">TURN THE SIGNS TO LINK EACH SACK.</string>
+    <string name="hint_routing">KEEP TURNING - LANES MUST NOT SHARE A SIGN.</string>
+    <string name="hint_ready">ALL LANES READY? CHECK THEM.</string>
+    <string name="hint_crossing">TWO LANES SHARE A SIGN.</string>
+    <string name="cta_check">TAP TO CHECK</string>
+
+    <string name="result_win">ROUTES COMPLETE</string>
+    <string name="result_loss">FLOCK SCATTERED</string>
+    <string name="result_sub_win">YOU WON THE ROUTE</string>
+    <string name="result_sub_loss">NO LUCK THIS TIME</string>
+    <string name="new_best">NEW BEST</string>
+    <string name="cta_next_scheme">NEXT SCHEME</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_menu">MENU</string>
+
+    <string name="dialog_level_map">LEVEL MAP</string>
+    <string name="dialog_rules">GAME RULES</string>
+    <string name="dialog_settings">SETTINGS</string>
+    <string name="cta_got_it">GOT IT</string>
+    <string name="cta_close">CLOSE</string>
+    <string name="cta_reset_progress">RESET PROGRESS</string>
+    <string name="cta_confirm_reset">CONFIRM RESET</string>
+    <string name="setting_sound">SOUND</string>
+    <string name="setting_haptics">HAPTICS</string>
+
+    <string name="rule_one">1. TOUCH A WOODEN SIGN TO TURN IT ONE STEP.</string>
+    <string name="rule_two">2. LINK EVERY GRAIN SACK TO THE FEEDER OF ITS OWN COLOUR.</string>
+    <string name="rule_three">3. TWO LANES MAY NEVER SHARE THE SAME SIGN.</string>
+    <string name="rule_four">4. TURNS ARE LIMITED AND YOU GET THREE CHECKS.</string>
+
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_hen">A hen waiting by the fence</string>
+    <string name="cd_grain_sack">Grain sack</string>
+    <string name="cd_feeder">Feeder trough</string>
+    <string name="cd_sign">Wooden signpost</string>
+    <string name="cd_locked">Locked scheme</string>
+    <string name="cd_checks">%1$d checks remaining</string>
+    <string name="cd_routes">%1$d of %2$d routes linked</string>
+    <string name="cd_stars">%1$d of %2$d stars</string>
+    <string name="sd_moves_left">%1$d moves left</string>
+    <string name="sd_connected">Connected</string>
+    <string name="sd_open">Open</string>
+    <string name="sd_on">On</string>
+    <string name="sd_off">Off</string>
+</resources>
